@@ -5,7 +5,7 @@
 Este projeto analisa a base de clientes de um serviço de **streaming por assinatura** para entender **quem cancela, por quê e em que momento da vida do cliente** o cancelamento (churn) acontece. Utilizamos **análise exploratória de dados (limpeza, análise univariada e bivariada) e frameworks de negócio (cohort, RFM e Pareto)** para transformar um extrato bruto de clientes em hipóteses acionáveis sobre retenção.
 
 
-📄 [Veja a análise no Jupyter Notebook]()
+📄 [Veja a análise no Jupyter Notebook](https://github.com/f-siqueira/streaming_churn/blob/main/notebooks/Modulo01-Analise_Descritiva_unipds.ipynb)
 
 notebooks/Modulo01-Analise_Descritiva_unipds
 
